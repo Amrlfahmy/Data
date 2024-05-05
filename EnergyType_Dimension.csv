@@ -1,0 +1,8 @@
+EnergyTypeID,EnergyType,EnergyCategory
+1,Coal,Fossil Fuel
+2,Oil,Fossil Fuel
+3,Gas,Fossil Fuel
+4,Nuclear,Low Carbon
+5,Hydro,Low Carbon
+6,Solar,Low Carbon
+7,Wind,Low Carbon
